@@ -47,10 +47,6 @@ I enjoy solving complex problems and transforming ideas into working application
 
 ---
 
-### 🧩 GitHub Stats
-
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peruvaalla-Pooja&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peruvaalla-Pooja&layout=compact&theme=radical)
 
 ---
 
