@@ -46,7 +46,7 @@ I enjoy solving complex problems and transforming ideas into working application
 - **Tech:** Python, CNN, LSTM, TensorFlow, Keras.
 
 ---
-#### 🔢 Interactive Web Calculator (Feb 2025)
+#### 🔢 Interactive Web Calculator (Sept 2025)
 - Developed a fully functional browser-based calculator providing real-time arithmetic expression evaluation.
 - Designed a structured UI using HTML5 tables for grid alignment, featuring a digital display and intuitive control keys.
 - Engineered core logic with JavaScript (Vanilla), implementing functions for input insertion, deletion, and dynamic calculation using the eval() method.
