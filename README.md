@@ -66,7 +66,7 @@ I enjoy solving complex problems and transforming ideas into working application
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peruvaalla-pooja-40a5a137b)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:poojaperuvaalla@gmail.com)
-
+[![Naukri](https://img.shields.io/badge/Naukri-Orange?style=flat&logo=naukri)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 ---
 
 ⭐️ *“Code, Learn, and Build — every small project brings you closer to mastery.”*  
