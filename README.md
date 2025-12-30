@@ -64,7 +64,7 @@ I enjoy solving complex problems and transforming ideas into working application
 
 ---
 #### Certifications
--**Full Stack Java Program** -- Excelr
+- **Full Stack Java Program** -- Excelr
 - **Getting started with AI** --IBM SkillBuild
 ---
 
