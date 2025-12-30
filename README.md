@@ -11,6 +11,7 @@ I'm a motivated Computer Science student passionate about **software development
 I enjoy solving complex problems and transforming ideas into working applications through clean code and innovative design.
 
 - 🌱 Currently exploring **Java Full Stack Development**
+- 🌱 Currently exploring **Power BI with AI**
 - 🤖 Experienced in **Machine Learning, Deep Learning, and NLP**
 - 💡 Open to **internships and collaborative projects**
 - 🧠 Always learning and improving my programming & communication skills
@@ -61,6 +62,10 @@ I enjoy solving complex problems and transforming ideas into working application
 - Strong organizational and problem-solving skills  
 - Focused, consistent, and detail-oriented  
 
+---
+#### Certifications
+-**Full Stack Java Program** -- Excelr
+- **Getting started with AI** --IBM SkillBuild
 ---
 
 ### 📫 Connect With Me
