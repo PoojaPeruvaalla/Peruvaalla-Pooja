@@ -63,11 +63,11 @@ I enjoy solving complex problems and transforming ideas into working application
 - Focused, consistent, and detail-oriented  
 
 ---
-#### Certifications
+#### 📜 Certifications
 - **Full Stack Java Program** -- Excelr
 - **Getting started with AI** --IBM SkillBuild
 ---
-
+---
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peruvaalla-pooja-40a5a137b)
 [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:poojaperuvaalla@gmail.com)
