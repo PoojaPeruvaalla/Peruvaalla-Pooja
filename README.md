@@ -31,6 +31,16 @@ I enjoy solving complex problems and transforming ideas into working application
 
 ---
 
+### Education Details
+
+- **Scient Institute of Engineering and Technology (SNTI), Affiliated to JNTUH, Hyderabad, India- 2025**
+  - Bachelor of Technology (BTech) in Computer Science | GPA: 6.8
+- **New Government Junior College-2021**
+  - Intermediate (12th Grade) | Group: MPC- 95%
+- **Vignan Integrated High School**
+  - S.S.C (10th Grade)- 9.5 CGPA
+---
+
 ### 📚 Academic Projects
 
 #### 🧠 Stock Market Price Prediction Using MSSSA-LSTM (May 2025)
@@ -60,7 +70,8 @@ I enjoy solving complex problems and transforming ideas into working application
 - Clear communicator and confident speaker  
 - Quick learner and adaptable to new technologies  
 - Strong organizational and problem-solving skills  
-- Focused, consistent, and detail-oriented  
+- Focused, consistent, and detail-oriented
+
 
 ---
 #### 📜 Certifications
