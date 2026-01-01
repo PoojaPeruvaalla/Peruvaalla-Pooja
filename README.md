@@ -56,7 +56,7 @@ I enjoy solving complex problems and transforming ideas into working application
 - Achieved high **BLEU/METEOR** scores for caption quality.  
 - **Tech:** Python, CNN, LSTM, TensorFlow, Keras.
 
----
+
 #### 🔢 Interactive Web Calculator (Sept 2025)
 - Developed a fully functional browser-based calculator providing real-time arithmetic expression evaluation.
 - Designed a structured UI using HTML5 tables for grid alignment, featuring a digital display and intuitive control keys.
@@ -77,8 +77,6 @@ I enjoy solving complex problems and transforming ideas into working application
 #### 📜 Certifications
 - **Full Stack Java Program** -- Excelr
 - **Getting started with AI** --IBM SkillBuild
-
----
 
 ---
 
