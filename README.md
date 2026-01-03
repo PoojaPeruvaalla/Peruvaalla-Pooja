@@ -64,6 +64,15 @@ I enjoy solving complex problems and transforming ideas into working application
 - Enhanced user experience with CSS3, utilizing hover transitions, scale transforms, and a color-coded layout for operator differentiation.
 - **Tech:** HTML5, CSS3, JavaScript.
 
+#### Image similarity Search Using Deep Learning
+- Built a **CNN-based image similarity search engine** to retrieve visually related images from a dataset.
+- Utilized pre-trained **VGG16/ResNet** models for high-level feature extraction using transfer learning.
+- Implemented Cosine Similarity & Euclidean Distance for accurate image matching and ranking.
+- Designed a fast andscalable feature indexing and retrieval pipeline.
+- Evaluated model performance using Top-K nearest neighbor retrieval accuracy.
+- Visualized similarity results and prediction accuracy using Matplotlib.
+- **Tech:** Python, CNN, VGG16, ResNet, TensorFlow, Keras, Cosine Similarity, Matplotlib
+
 ---
 
 ### 🏆 Strengths
