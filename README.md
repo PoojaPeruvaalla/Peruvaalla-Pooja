@@ -13,8 +13,9 @@ I enjoy solving complex problems and transforming ideas into working application
 - 🌱 Currently exploring **Java Full Stack Development**
 - 🌱 Currently exploring **Power BI with AI**
 - 🤖 Experienced in **Machine Learning, Deep Learning, and NLP**
-- 💡 Open to **internships and collaborative projects**
+- 💡 Open to **internships and full stack jave developer jobs**
 - 🧠 Always learning and improving my programming & communication skills
+- 🧠 Learning soft skills and presentation tips
 
 ---
 
@@ -28,6 +29,7 @@ I enjoy solving complex problems and transforming ideas into working application
 | **Tools** | Visual Studio, GitHub, VS Code |
 | **AI/ML** | Deep Learning, CNN, LSTM, Sentiment Analysis |
 | **Libraries** | TensorFlow, Keras, Matplotlib, Seaborn |
+| **Business Tools** | Power Business Intelligence (Exploring Power BI) |
 
 ---
 
