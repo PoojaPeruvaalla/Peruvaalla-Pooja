@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I'm a motivated Computer Science student passionate about **software development, deep learning, and full-stack projects**.  
+I'm a motivated Computer Science student passionate about **full stack java developer, and full-stack projects**.  
 I enjoy solving complex problems and transforming ideas into working applications through clean code and innovative design.
 
 - 🌱 Currently exploring **Java Full Stack Development**
