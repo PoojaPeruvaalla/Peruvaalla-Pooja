@@ -23,10 +23,11 @@ I enjoy solving complex problems and transforming ideas into working application
 
 | Category | Skills |
 |-----------|--------|
-| **Languages** | Python, Java, C, C++ |
+| **Languages** | **Java**,Python, C, C++ |
+| **Backend** | Spring Boot,JDBC |
 | **Web** | HTML, CSS, JavaScript (learning React) |
-| **Databases** | MySQL, Oracle, PLSQL |
-| **Tools** | Visual Studio, GitHub, VS Code |
+| **Databases** | MySQL,PostgreSQL, Oracle, PLSQL |
+| **Tools** | Git, GitHub, Postman, VS Code, IntelliJ IDEA |
 | **AI/ML** | Deep Learning, CNN, LSTM, Sentiment Analysis |
 | **Libraries** | TensorFlow, Keras, Matplotlib, Seaborn |
 | **Business Tools** | Power Business Intelligence (Exploring Power BI) |
